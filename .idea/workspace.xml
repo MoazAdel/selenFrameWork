@@ -1,7 +1,72 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="007051d5-4b9c-4fa6-a839-c9ceee5aa0c7" name="Default Changelist" comment="" />
+    <list default="true" id="007051d5-4b9c-4fa6-a839-c9ceee5aa0c7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chromedriver_linux64.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64.tar.bz2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64.tar.bz2.1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64.tar.bz2.2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64.tar.bz2.3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64.tar.bz2.4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/LICENSE.BSD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/bin/phantomjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/examples/arguments.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/examples/child_process-examples.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/examples/colorwheel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/examples/countdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/examples/detectsniff.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/examples/echoToFile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/examples/features.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/examples/fibo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/examples/hello.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/examples/injectme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/examples/loadspeed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/examples/loadurlwithoutcss.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/examples/modernizr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/examples/module.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/examples/netlog.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/examples/netsniff.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/examples/openurlwithproxy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/examples/outputEncoding.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/examples/page_events.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/examples/pagecallback.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/examples/phantomwebintro.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/examples/post.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/examples/postjson.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/examples/postserver.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/examples/printenv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/examples/printheaderfooter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/examples/printmargins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/examples/rasterize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/examples/render_multi_url.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/examples/responsive-screenshot.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/examples/run-jasmine.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/examples/run-jasmine2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/examples/run-qunit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/examples/scandir.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/examples/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/examples/serverkeepalive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/examples/simpleserver.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/examples/sleepsort.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/examples/stdin-stdout-stderr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/examples/universe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/examples/unrandomize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/examples/useragent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/examples/version.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/examples/waitfor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phantomjs-2.1.1-linux-x86_64/examples/walk_through_frames.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/selenium-server-standalone-3.13.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-6.8.7.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testng-6.8.7.jar.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/screenshots/userCanRegisterSuccessfully.png" beforeDir="false" afterPath="$PROJECT_DIR$/screenshots/userCanRegisterSuccessfully.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/tests/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/tests/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/tests/TestBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +87,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -33,7 +101,11 @@
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1PvHG2eVEaAOQZppzTWy2dAYICI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1566849112553" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
@@ -63,7 +135,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestRunner">
+  <component name="RunManager" selected="TestNG./media/moaz/New Volume/QC/Automation/pom_dp_test/testng.xml">
     <configuration name="TestRunner" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="pom_dp_test" />
       <extension name="coverage">
@@ -154,8 +226,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestRunner" />
         <item itemvalue="TestNG./media/moaz/New Volume/QC/Automation/pom_dp_test/testng.xml" />
+        <item itemvalue="TestNG.TestRunner" />
         <item itemvalue="TestNG.UserRegistrationTestUsingExcel" />
         <item itemvalue="TestNG.UserRegistrationTestWithDataProvider (1)" />
         <item itemvalue="TestNG.UserRegistrationTestWithDataProvider" />
@@ -187,6 +259,22 @@
       <updated>1566233358702</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
