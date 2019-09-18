@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [nopcommerce Regression Test]">
+  <parameter name="browser" value="firefox"/>
+  <test thread-count="5" verbose="0" name="firefoxTest(failed)">
+    <classes>
+      <class name="tests.CheckOutTest">
+        <methods>
+          <include name="startDriver"/>
+          <include name="userCheckOut"/>
+          <include name="stopDriver"/>
+          <include name="screenshotOnFailure"/>
+        </methods>
+      </class> <!-- tests.CheckOutTest -->
+    </classes>
+  </test> <!-- firefoxTest(failed) -->
+</suite> <!-- Failed suite [nopcommerce Regression Test] -->
