@@ -30,6 +30,5 @@ public class AddReviewPage extends PageBase {
         setTextElementText(reviewText, rText);
         clickBtn(ratingOption);
         clickBtn(submitReviewBtn);
-        clickBtn(submitReviewBtn);
     }
 }
