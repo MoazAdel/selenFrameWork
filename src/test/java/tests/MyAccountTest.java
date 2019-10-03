@@ -17,14 +17,15 @@ public class MyAccountTest extends TestBase {
     String newPassword= "101010101";
     String FN = "Moaz";
     String LN = "Adel";
-    String email = "moazadel1125@Yahoo.com";
+    String email = "moazadel112522@Yahoo.com";
 
     @Test(priority = 1,alwaysRun = true)
-    public void userCanRegisterSuccessfully() {
+    public void userCanRegisterSuccessfully() throws InterruptedException {
         homeObjects = new HomePage(driver);
         homeObjects.openRegistrationPage();
         registerObjects = new UserRegistrationPage(driver);
         registerObjects.userRegistration(FN, LN, email, oldPassword);
+        Thread.sleep(1000);
         Assert.assertTrue(registerObjects.successMessage.getText().contains("completed"));
     }
 

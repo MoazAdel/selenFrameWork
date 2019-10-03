@@ -8,7 +8,7 @@
             <class name="tests.MyAccountTest"/>
             <class name="tests.SearchProductTest"/>
             <class name="tests.SearchProductUsingAutoSuggest"/>
-            <class name="tests.ContactUsTest"/>
+            <!-- <class name="tests.ContactUsTest"/>
             <class name="tests.EmailFriendTest"/>
             <class name="tests.ChangeCurrencyTest"/>
             <class name="tests.AddReviewTest"/>
@@ -16,7 +16,7 @@
             <class name="tests.AddProductToWishListTest"/>
             <class name="tests.AddCompareTest"/>
             <class name="tests.AddToCartTest"/>
-            <class name="tests.CheckOutTest"/>
+            <class name="tests.CheckOutTest"/> -->
         </classes>
     </test>
     <!--<test name="ChromeTest">-->
