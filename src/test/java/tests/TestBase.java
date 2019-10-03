@@ -17,19 +17,18 @@ public class TestBase extends AbstractTestNGCucumberTests {
     public static WebDriver driver;
 
     @BeforeSuite
-    //@Parameters({"browser" })
-    public void startDriver() {
+    @Parameters({"browser" })
+    public void startDriver(String browserName) {
 
-//        if(browserName.equalsIgnoreCase("chrome")) {
-//            driver = new ChromeDriver();
-//        }   else if (browserName.equalsIgnoreCase("firefox")) {
-//           driver = new FirefoxDriver();
-//        } else if(browserName.equalsIgnoreCase("ie")) {
-//            driver = new InternetExplorerDriver();
-//        } else if(browserName.equalsIgnoreCase("edge")) {
-//            driver = new EdgeDriver();
-//        }
-        driver = new FirefoxDriver();
+       if(browserName.equalsIgnoreCase("chrome")) {
+           driver = new ChromeDriver();
+       }   else if (browserName.equalsIgnoreCase("firefox")) {
+          driver = new FirefoxDriver();
+       } else if(browserName.equalsIgnoreCase("ie")) {
+           driver = new InternetExplorerDriver();
+       } else if(browserName.equalsIgnoreCase("edge")) {
+           driver = new EdgeDriver();
+       }
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(120, TimeUnit.MILLISECONDS);
         driver.navigate().to("https://demo.nopcommerce.com/");
